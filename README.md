@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MCP Tool-Augmented AI Assistant
 
 ## Project Description
@@ -55,3 +56,6 @@ The project includes protections against unsafe SQL operations and unsafe mathem
 ## Testing
 
 Seven automated tests have been created using pytest.
+=======
+# mcp-agent-tools
+>>>>>>> ad337750d16d9cd52eb7d30147a0605a26f815ea
